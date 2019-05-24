@@ -23,3 +23,8 @@ dependency:
 ```
 
 But seems like it's okay...
+
+_see branches:_
+
+* [1.x](https://github.com/daggerok/kotlin-spek-maven-example/tree/1.x)
+* [2.x](https://github.com/daggerok/kotlin-spek-maven-example/tree/2.x)
